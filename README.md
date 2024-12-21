@@ -1,3 +1,3 @@
 # widgetbook_trial
 
-A new Flutter project.
+This is a trial project to trial the widgetbook package.
